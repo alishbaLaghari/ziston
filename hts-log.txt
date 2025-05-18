@@ -1,0 +1,122 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 31 Oct 2024 00:24:31 at https://pixydrops.com/ziston/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://pixydrops.com/ziston/index.html -O1 "C:\Users\Admin\Desktop\Ziston" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:28:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/cart.html (from https://pixydrops.com/ziston/index.html)
+00:28:56	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/assets/css/owl.video.play.png (from https://pixydrops.com/ziston/assets/css/owl.carousel.min.css)
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/assets/css/..bfonts/fa-regular-400.woff (from https://pixydrops.com/ziston/assets/css/fontawesome-all.min.css)
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/assets/css/..bfonts/fa-solid-900.svg (from https://pixydrops.com/ziston/assets/css/fontawesome-all.min.css)
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/assets/css/mCSB_buttons.png (from https://pixydrops.com/ziston/assets/css/jquery.mCustomScrollbar.min.css)
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/assets/css/overlays/02.png (from https://pixydrops.com/ziston/assets/css/vegas.min.css)
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/www.ziston.com (from https://pixydrops.com/ziston/listings-details.html)
+00:29:55	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/news_detail.html (from https://pixydrops.com/ziston/blog-detail.html)
+00:29:55	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:29:55	Error: 	"No data (connection closed)" (-4) after 2 retries at link fonts.googleapis.com/robots.txt (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:30:13	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/watch?v=i9E_Blai8vk (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:30:13	Error: 	"No data (connection closed)" (-4) after 2 retries at link www.youtube.com/robots.txt (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:30:13	Warning: 	Retry after error -4 (No data (connection closed)) at link www.youtube.com/@priscillaklee (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:30:19	Error: 	"Not Found" (404) at link https://www.youtube.com/Edg/ (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:30:23	Warning: 	Moved Permanently for https://www.youtube.com/about/
+00:30:23	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
+00:30:23	Warning: 	Moved Permanently for https://www.youtube.com/about/press/
+00:30:23	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/
+00:30:23	Warning: 	Moved Permanently for https://www.youtube.com/about/copyright/
+00:30:23	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+00:32:39	Warning: 	Moved Permanently for https://www.youtube.com/about/policies/
+00:32:39	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+00:33:33	Error: 	"Not Found" (404) at link https://www.youtube.com/async_attach_app_loader.js (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:33:36	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/Version/ (from https://pixydrops.com/ziston/assets/js/TweenMax.min.js)
+00:33:39	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://pixydrops.com/ziston/version/ (from https://pixydrops.com/ziston/assets/js/swiper.min.js)
+00:33:45	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/countdown.js (from https://pixydrops.com/ziston/assets/js/countdown.min.js)
+00:34:01	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js (from https://pixydrops.com/ziston/assets/js/jquery.mCustomScrollbar.concat.min.js)
+00:34:06	Warning: 	Retry after error -4 (No data (connection closed)) at link fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:34:17	Warning: 	Retry after error -4 (No data (connection closed)) at link www.youtube.com/@priscillaklee (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+00:34:17	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/i9E_Blai8vk)
+00:34:17	Warning: 	See Other for https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/
+00:34:17	Warning: 	File has moved from https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com
+00:34:18	Warning: 	See Other for https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/
+00:34:18	Warning: 	File has moved from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/ to https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com
+00:34:27	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/yt/about/press/
+00:34:27	Warning: 	File has moved from https://www.youtube.com/intl/en/yt/about/press/ to https://www.youtube.com/intl/en/about/press/
+00:34:27	Warning: 	Moved Permanently for https://www.youtube.com/creators/benefits/
+00:34:27	Warning: 	File has moved from https://www.youtube.com/creators/benefits/ to https://www.youtube.com/creators/awards/
+00:34:27	Warning: 	Moved Permanently for https://www.youtube.com/yt/advertise/
+00:34:27	Warning: 	File has moved from https://www.youtube.com/yt/advertise/ to https://www.youtube.com/ads/
+00:34:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.youtube.com/creators/)
+00:46:35	Warning: 	Retry after error -4 (No data (connection closed)) at link fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap&lang=en (from https://www.youtube.com/ads/)
+00:47:04	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://www.youtube.com/ads/)
+00:54:22	Warning: 	Found for https://www.youtube.com/yt/family/
+00:54:22	Warning: 	File has moved from https://www.youtube.com/yt/family/ to https://www.youtube.com/go/family/
+00:54:45	Warning: 	Moved Permanently for https://www.youtube.com/creatorresearch/
+00:54:45	Warning: 	File has moved from https://www.youtube.com/creatorresearch/ to https://www.youtube.com/creators/research/
+00:55:03	Warning: 	Moved Permanently for https://www.youtube.com/nextup/
+00:55:03	Warning: 	File has moved from https://www.youtube.com/nextup/ to https://www.youtube.com/creators/
+00:55:08	Warning: 	Moved Permanently for https://www.youtube.com/creators-for-change/
+00:55:08	Warning: 	File has moved from https://www.youtube.com/creators-for-change/ to https://www.youtube.com/creators/
+00:55:22	Warning: 	Link https://www.youtube.com/csai-match/ not scanned (follow robots meta tag)
+00:55:44	Warning: 	Moved Permanently for https://www.youtube.com/about/brand-resources/
+00:55:44	Warning: 	File has moved from https://www.youtube.com/about/brand-resources/ to https://www.youtube.com/howyoutubeworks/resources/brand-resources/
+00:58:47	Warning: 	Found for https://www.youtube.com/yt/copyright/
+00:58:47	Warning: 	File has moved from https://www.youtube.com/yt/copyright/ to https://www.youtube.com/yt/about/copyright/
+01:10:05	Error: 	"Not Found" (404) at link https://pixydrops.com/ziston/version/ (from https://pixydrops.com/ziston/assets/js/swiper.min.js)
+01:10:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+01:10:05	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ (from https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ)
+01:10:05	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ (from https://www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ)
+01:10:05	Warning: 	See Other for https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	File has moved from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	See Other for https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	File has moved from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	See Other for https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	File has moved from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	See Other for https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Warning: 	File has moved from https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+01:10:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link www.youtube.com/@priscillaklee (from https://www.youtube.com/watch?v=i9E_Blai8vk)
+01:10:09	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com (from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/)
+01:10:09	Warning: 	Retry after error -4 (No data (connection closed)) at link fonts.googleapis.com/icon?family=Material+Icons (from https://www.youtube.com/jobs/)
+01:10:34	Warning: 	Moved Permanently for https://www.youtube.com/ads/youtube-select/
+01:10:34	Warning: 	File has moved from https://www.youtube.com/ads/youtube-select/ to https://www.youtube.com/ads/how-it-works/set-up-a-campaign/youtube-select/
+01:10:34	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/about/press/
+01:10:34	Warning: 	File has moved from https://www.youtube.com/intl/en/about/press/ to https://about.youtube/
+01:10:34	Warning: 	Found for https://www.youtube.com/creators/awards/
+01:10:34	Warning: 	File has moved from https://www.youtube.com/creators/awards/ to https://www.youtube.com/creators/how-things-work/programs-initiatives/awards
+01:11:44	Warning: 	Moved Permanently for https://www.youtube.com/creators/why-be-a-creator/
+01:11:44	Warning: 	File has moved from https://www.youtube.com/creators/why-be-a-creator/ to https://www.youtube.com/creators/
+01:14:22	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/undefined
+01:16:45	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ (from https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ)
+01:16:45	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ (from https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ)
+01:19:12	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_brtel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_br/ads/)
+01:20:58	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_catel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_ca/ads/)
+01:22:21	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/fr_catel:1-877-763-9810 (from https://www.youtube.com/intl/fr_ca/ads/)
+01:24:23	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_detel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_de/ads/)
+01:25:47	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_frtel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_fr/ads/)
+01:30:54	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_intel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_in/ads/)
+01:32:53	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/hi_intel:1-877-763-9810 (from https://www.youtube.com/intl/hi_in/ads/)
+01:34:45	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_krtel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_kr/ads/)
+01:36:41	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_rutel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_ru/ads/)
+01:38:01	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_sgtel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_sg/ads/)
+01:39:12	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_thtel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_th/ads/)
+01:41:03	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_uatel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_ua/ads/)
+01:42:49	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_vntel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_vn/ads/)
+01:44:54	Error: 	"Not Found" (404) at link https://www.youtube.com/intl/ALL_jptel:1-877-763-9810 (from https://www.youtube.com/intl/ALL_jp/ads/)
+01:47:36	Error: 	Exit requested by shell or user
+01:47:36	Error: 	Exit requested by shell or user
+01:47:36	Error: 	Exit requested by shell or user
+01:47:36	Error: 	"" (-1) at link https://www.youtube.com/intl/en_ae/ads/resources/success-stories/ (from https://www.youtube.com/intl/en_ae/ads/)
+01:47:36	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 23 minutes 5 seconds : 1882 links scanned, 1717 files written (268108432 bytes overall) [85279352 bytes received at 17107 bytes/sec], 235018651 bytes transferred using HTTP compression in 1485 files, ratio 20%, 1.1 requests per connection
+(47 errors, 60 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
